@@ -1,0 +1,46 @@
+{
+  "downloadable": [
+    {
+      "id": "41218-13671-146468",
+      "type": "video",
+      "name": "1748434196-146468.mp4",
+      "src": "https://us.lsquared.com/lsquared-hub/cl/videos/processed/1748434196-146468.mp4",
+      "scale": "fit"
+    },
+    {
+      "id": "41218-13671-151483",
+      "type": "video",
+      "name": "1749031575.2443-img-2648.mp4",
+      "src": "https://us.lsquared.com/lsquared-hub/cl/videos/processed/1749031575.2443-img-2648.mp4",
+      "scale": "crop"
+    },
+    {
+      "id": "41219-13672-95537",
+      "type": "image",
+      "name": "41219-13672-1707779500.0233-2024-feb19-feb21-ms-global-class-finder.png",
+      "src": "https://us.lsquared.com/lsquared-hub/cl/images/1707779500.0233-2024-feb19-feb21-ms-global-class-finder.png",
+      "scale": "fit"
+    },
+    {
+      "id": "41219-13672-95538",
+      "type": "image",
+      "name": "41219-13672-1707785129.998-nmw-feb-24.png",
+      "src": "https://us.lsquared.com/lsquared-hub/cl/images/1707785129.998-nmw-feb-24.png",
+      "scale": "crop"
+    },
+    {
+      "id": "41220-13673-58560",
+      "type": "image",
+      "name": "41220-13673-1685602739.7137-hulki-okan-tabak-6pbyrbivive-unsplash.jpg",
+      "src": "https://us.lsquared.com/lsquared-hub/cl/images/1685602739.7137-hulki-okan-tabak-6pbyrbivive-unsplash.jpg",
+      "scale": "fit"
+    },
+    {
+      "id": "41220-13673-79035",
+      "type": "image",
+      "name": "41220-13673-1694803037.1415-l-squared-customer-logos.png",
+      "src": "https://us.lsquared.com/lsquared-hub/cl/images/1694803037.1415-l-squared-customer-logos.png",
+      "scale": "stretch"
+    }
+  ]
+}
