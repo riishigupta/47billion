@@ -37,7 +37,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupObservers() {
-        // Observe videos
+
+
+
         vm.videos.observe(this) { videoFiles ->
             if (videoFiles.isNotEmpty()) {
                 setupVideoPlaylist(videoFiles)
